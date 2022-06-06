@@ -48,11 +48,21 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 
+<<<<<<< HEAD
 # Unity3D generated file on crash reports
+=======
+# Unity3D generated file on crash reports n
+>>>>>>> cfe16a1fa41f39cd9c8eb8d9eda0c3deb35ac6cd
 sysinfo.txt
 
 # Builds
 *.apk
 *.unitypackage
 
+<<<<<<< HEAD
 # Crashlytics generated file
+=======
+# Crashlytics generated file
+crashlytics-build.properties
+
+>>>>>>> cfe16a1fa41f39cd9c8eb8d9eda0c3deb35ac6cd
